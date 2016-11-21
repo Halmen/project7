@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636340533444",
+    "firebase_url": "https://dont-be-lonely.firebaseio.com",
+    "project_id": "dont-be-lonely",
+    "storage_bucket": "dont-be-lonely.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636340533444:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636340533444-u37tg1nq0har4ghtpunb00umnp9dlpk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "F90AB045503A761D463E361B6270AC0CF9252906"
+          }
+        },
+        {
+          "client_id": "636340533444-q9hcgmr1ptl8spaoepr651kpa8te130o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zE308COEdx2R94YEoSQwMmKR1eoGLrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636340533444-q9hcgmr1ptl8spaoepr651kpa8te130o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
